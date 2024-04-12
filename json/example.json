@@ -1,0 +1,43 @@
+[
+    {
+        "id": "001",
+        "name": "Corpus AAA",
+        "researcher": "Researcher1",
+        "WP": "WP1",
+        "PI": "PI1",
+        "abstract": "This is an awesome corpus",
+        "publication DOI": "https://google.ch/",
+        "publication link": null,
+        "data type": "database",
+        "data format": "sqlite3, RData",
+        "data link": null,
+        "git": "https://github.com/"
+    },
+    {
+        "id": "002",
+        "name": "Corpus BBB",
+        "researcher": "Researcher2",
+        "WP": "WP2",
+        "PI": "PI2",
+        "abstract": "This is another awesome corpus",
+        "publication DOI": "https://zenodo.org/",
+        "publication link": null,
+        "data type": "text",
+        "data format": "xml",
+        "data link": null,
+        "git": "https://github.com/"
+    },
+    {
+        "id": "003",
+        "name": "Corpus CCC",
+        "researcher": "Researcher2",
+        "WP": "WP2",
+        "PI": "PI2",
+        "abstract": "This is a third awesome corpus",
+        "publication DOI": "https://osf.io/",
+        "publication link": null,
+        "data type": "text",
+        "data format": "xml",
+        "data link": null,
+        "git": "https://github.com/"
+    }]
