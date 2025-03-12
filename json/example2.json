@@ -12,7 +12,8 @@
 	 "Description":"Description of isofinch dataset",
 	 "OA": "Open",
 	 "publication_DOI":"",
-	"publication_link":""},
+	"publication_link":"",
+	"contact":"example@gmail.com"},
 	{"Dataset_Name":"isofinch_test",
 	 "Species":"taeniopygia",
 	 "Lab_or_Field":"field",
@@ -26,5 +27,6 @@
 	 "Description":"test",
 	 "OA": "Closed",
 	"publication_DOI":"",
-	"publication_link":""}
+	"publication_link":"",
+	"contact":"example@gmail.com"}
 ]
