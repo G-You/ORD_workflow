@@ -1,5 +1,7 @@
 [
 	{"Dataset_Name":"Isofinch",
+	 "Dataset_Link":"https://evolvinglanguage.ch/vocallbase-main",
+	 "Handout_Link":"https://vocallbase.evolvinglanguage.ch/internal/handouts_zf",
 	 "Species":"Taeniopygia",
 	 "Lab_or_Field":"lab",
 	 "Number_of_Channels":"2",
@@ -15,6 +17,8 @@
 	"publication_link":"",
 	"contact":"example@gmail.com"},
 	{"Dataset_Name":"isofinch_test",
+	 "Dataset_Link":"https://evolvinglanguage.ch/vocallbase-main",
+	 "Handout_Link":"https://vocallbase.evolvinglanguage.ch/internal/handouts_zf",
 	 "Species":"Taeniopygia",
 	 "Lab_or_Field":"field",
 	 "Number_of_Channels":"2",
