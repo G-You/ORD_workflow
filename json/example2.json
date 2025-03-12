@@ -1,0 +1,22 @@
+[
+	{"Dataset_Name":"isofinch",
+	 "Species":"taeniopygia",
+	 "Lab_or_Field":"lab",
+	 "Number_of_Channels":"2",
+	 "Investigator":"Investigator_1",
+	 "Number_of_Annotations":"7821",
+	 "Total_Annotation_Duration":"02:00:00",
+  	"Number_of_Unique_Species":"1",
+	 "Number_of_Unique_Individuals":"1"
+	 "Last_Update":"2025-02-04 16:09:46"},
+	{"Dataset_Name":"isofinch_test",
+	 "Species":"taeniopygia",
+	 "Lab_or_Field":"field",
+	 "Number_of_Channels":"2",
+	 "Investigator":"Investigator_1",
+	 "Number_of_Annotations":"7821",
+	 "Total_Annotation_Duration":"02:00:00",
+  	"Number_of_Unique_Species":"1",
+	 "Number_of_Unique_Individuals":"1"
+	 "Last_Update":"2025-02-04 16:09:46"},
+]
