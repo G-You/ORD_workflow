@@ -8,7 +8,8 @@
 	 "Total_Annotation_Duration":"02:00:00",
   	"Number_of_Unique_Species":"1",
 	 "Number_of_Unique_Individuals":"1"
-	 "Last_Update":"2025-02-04 16:09:46"},
+	 "Last_Update":"2025-02-04 16:09:46",
+	 "Description":"Description of isofinch dataset"},
 	{"Dataset_Name":"isofinch_test",
 	 "Species":"taeniopygia",
 	 "Lab_or_Field":"field",
@@ -18,5 +19,6 @@
 	 "Total_Annotation_Duration":"02:00:00",
   	"Number_of_Unique_Species":"1",
 	 "Number_of_Unique_Individuals":"1"
-	 "Last_Update":"2025-02-04 16:09:46"},
+	 "Last_Update":"2025-02-04 16:09:46",
+	 "Description":"test"},
 ]
